@@ -1,1 +1,0 @@
-# Animal-Identification-Game
