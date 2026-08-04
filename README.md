@@ -1,9 +1,15 @@
 # Animal Identification Game
 
 ## Description
-This project identifies animals from images.
+This is a Python mini project that displays animal images and asks users to identify the correct animal.
 
 ## Features
-- Display images
-- Answer buttons
+- Animal images
+- Buttons
 - Score calculation
+- Simple graphical user interface (GUI)
+
+## Technologies used
+- Python
+- Tkinter
+- Pillow
